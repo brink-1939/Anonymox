@@ -218,4 +218,4 @@ anonymoX for Chrome is available as a free download with all features and update
 Take control of your online privacy today! Download **anonymoX for Chrome** for free and enjoy a safer browsing experience.
 
 ---
-**Last updated:** 2026-10-07 20:18:31 UTC
+**Last updated:** 2026-10-08 00:33:47 UTC
